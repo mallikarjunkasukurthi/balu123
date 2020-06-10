@@ -1,3 +1,5 @@
 configurations file of maven is pom.xml it is project object model creating pom.file 
 configure the modules if any issues between chld and parent moduls will be sloved 
 pom file contains configuration data like plugins
+like plugins dependies profile and modules
+maven has a life cycle the pharse are validate complie test package install and depoly
